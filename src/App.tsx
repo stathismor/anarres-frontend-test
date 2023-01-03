@@ -1,6 +1,9 @@
 import React from "react";
 import "./App.css";
+import { Link } from "gatsby";
 import Player from "./components/Player";
+
+console.log(Link);
 
 function App() {
   return (
